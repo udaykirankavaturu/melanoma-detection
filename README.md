@@ -38,7 +38,7 @@ Augmentor module was used to create a pipeline and produce 500 images per class 
 
 Model showed promise with 20 epochs on the new dataset. 
 
-Model further showed greater accuracy above 80% when ran with 50 epochs. 
+Model further showed greater accuracy above 85% when ran with 50 epochs. 
 
 
 ## Technologies Used
