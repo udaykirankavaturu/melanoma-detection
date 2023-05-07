@@ -48,4 +48,4 @@ Model further showed greater accuracy above 80% when ran with 50 epochs.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@udaykirankavaturu](https://github.com/udaykirankavaturu/melanoma-detection) - feel free to contact me!
