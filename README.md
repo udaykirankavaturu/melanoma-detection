@@ -42,9 +42,10 @@ Model further showed greater accuracy above 80% when ran with 50 epochs.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- tensorflow
+- matplotlib
+- numpy
+- pandas
 
 
 ## Contact
